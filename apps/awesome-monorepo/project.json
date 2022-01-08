@@ -1,0 +1,6 @@
+{
+  "root": "apps/awesome-monorepo",
+  "sourceRoot": "apps/awesome-monorepo/src",
+  "projectType": "application",
+  "tags": []
+}
